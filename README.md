@@ -1,4 +1,7 @@
-# concrete5 Marketplace Automated Tests
+# Automated Marketplace Tests
+
+This repository holds some tests to be used as examples to writing your own tests. We at concrete5 have made this repository so that we can open up our linting process to whoever can help.  
+Please write your class either in a way that it handles any php file, or for a subset of php files which should describe in your pull request / code comments.
 
 ### Setup
 In order to get started, you'll need to run initialize the bundled vagrant, install the composer dependencies, and build [xhpast](https://github.com/facebook/libphutil/tree/master/support/xhpast).
