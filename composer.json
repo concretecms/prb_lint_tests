@@ -1,0 +1,17 @@
+{
+    "name": "concrete5/prb_linter",
+    "authors": [
+        {
+            "name": "Korvin Szanto",
+            "email": "korvin@concrete5.org"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PRB\\Linter\\": "src"
+        }
+    },
+    "require": {
+        "kevinlebrun/colors.php": "0.*"
+    }
+}
