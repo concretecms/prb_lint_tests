@@ -21,6 +21,6 @@ To run the tests, just run `php /var/www/run_test.php`
 The sample test engine grabs all tests from the `src/tests/` directory, and instantiates them following PSR-4's class definition.  
 In order to add a test, simply create the file and extend the `\PRB\Linter\Test` class.
 
-Tests can be given whatever input they need, just describe your input in your pull request and comment your class well. The actual implementation into the linter itself will be done by me at my disgression.
+Tests can be given whatever input they need, just describe your input in your pull request and comment your class well. The actual implementation into the linter itself will be done by me at my discretion.
 
-I ask that you follow PSR-2 in providing new tests, and that you comment your class well so that I, and others to come, can understand it quickly and more wholely.
+I ask that you follow PSR-2 in providing new tests, and that you comment your class well so that I, and others to come, can understand it quickly and more wholly.
